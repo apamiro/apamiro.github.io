@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on APAMI</title>
-    <link>https://apami.ro/pages/</link>
-    <description>Recent content in Pages on APAMI</description>
+    <title>transparență on APAMI</title>
+    <link>https://apami.ro/tags/transparen%C8%9B%C4%83/</link>
+    <description>Recent content in transparență on APAMI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
-    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apami.ro/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apami.ro/tags/transparen%C8%9B%C4%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Asigurarea accesului la informațiile publice</title>
       <link>https://apami.ro/pages/info-publice/</link>
@@ -23,16 +23,6 @@
       
       <guid>https://apami.ro/pages/venituri-salariale/</guid>
       <description>&lt;h2 id=&#34;extras-din-legea-nr-1532017&#34;&gt;Extras din Legea nr. 153/2017&lt;/h2&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://apami.ro/pages/despre/</link>
-      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://apami.ro/pages/despre/</guid>
-      <description>Asociație neguvernamentală, independentă, parte a societății civile, fondată în 2006.
- Email: office@apami.ro Cheie publică OpenPGP: E2C628892D76C2542FA29D8BF92F344A00DA082B  </description>
     </item>
     
   </channel>

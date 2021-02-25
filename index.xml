@@ -6,13 +6,31 @@
     <description>Recent content on APAMI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
-    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apami.ro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apami.ro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asigurarea accesului la informațiile publice</title>
+      <link>https://apami.ro/pages/info-publice/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apami.ro/pages/info-publice/</guid>
+      <description>&lt;h2 id=&#34;extras-din-legea-nr-5442001&#34;&gt;Extras din Legea nr. 544/2001&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Transparența veniturilor salariale</title>
+      <link>https://apami.ro/pages/venituri-salariale/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apami.ro/pages/venituri-salariale/</guid>
+      <description>&lt;h2 id=&#34;extras-din-legea-nr-1532017&#34;&gt;Extras din Legea nr. 153/2017&lt;/h2&gt;</description>
+    </item>
+    
     <item>
       <title>Situația ocupării funcțiilor de conducere din cadrul IȘJ (1 ian 2021)</title>
-      <link>https://apami.ro/monitorizare/ocupare-func%C8%9Bii-isj-2021/</link>
+      <link>https://apami.ro/posts/ocupare-func%C8%9Bii-isj-2021/</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://apami.ro/monitorizare/ocupare-func%C8%9Bii-isj-2021/</guid>
+      <guid>https://apami.ro/posts/ocupare-func%C8%9Bii-isj-2021/</guid>
       <description>&lt;p&gt;La data de 1 ianuarie 2021 marea majoritate a funcțiilor de conducere din cadrul
 inspectoratelor școlare județene sunt ocupate prin detașare, fără concurs.&lt;/p&gt;</description>
     </item>
@@ -29,14 +47,13 @@ inspectoratelor școlare județene sunt ocupate prin detașare, fără concurs.&
     
     <item>
       <title>Control al MEN la IȘJ Ialomița (2017)</title>
-      <link>https://apami.ro/monitorizare/inspectorat-il-2017/</link>
+      <link>https://apami.ro/posts/inspectorat-il-2017/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://apami.ro/monitorizare/inspectorat-il-2017/</guid>
-      <description>&lt;p&gt;Controlul s-a efectuat de către &lt;em&gt;Corpul de control al MEN&lt;/em&gt; din cadrul
-&lt;em&gt;Direcției generale de inspecție și control&lt;/em&gt; în perioada &lt;em&gt;13 martie 2017&lt;/em&gt; -
-&lt;em&gt;23 martie 2017&lt;/em&gt; și a vizat activitatea desfășurată începând cu data de
-&lt;em&gt;1 ianuarie 2016&lt;/em&gt;.&lt;/p&gt;</description>
+      <guid>https://apami.ro/posts/inspectorat-il-2017/</guid>
+      <description>&lt;p&gt;În perioada &lt;em&gt;13 - 23 martie 2017&lt;/em&gt;, Ministerul Educației Naționale  a efectuat un
+control de fond la nivelul IȘJ Ialomița ce a vizat activitatea desfășurată
+începând &lt;em&gt;1 ianuarie 2016&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
