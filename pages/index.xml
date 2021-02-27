@@ -6,7 +6,20 @@
     <description>Recent content in Pages on APAMI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
-    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apami.ro/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apami.ro/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://apami.ro/pages/contact/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apami.ro/pages/contact/</guid>
+      <description>Asociație neguvernamentală, independentă, parte a societății civile, fondată în 2006.
+ Ne puteți scrie la adresa de email office@apami.ro.
+Vă recomandăm să utilizați Thunderbird - un client de email gratuit pe care-l puteți descărca de la această adresă.
+Varianta în limba română a Thuderbird poate fi descărcată de aici.
+Pentru a asigura confidențialitatea comunicării recomandăm criptarea mesajelor de email folosind OpenPGP. O variantă gratuită pentru sistemele de operare Windows poate fi descărcată de aici.</description>
+    </item>
+    
     <item>
       <title>Asigurarea accesului la informațiile publice</title>
       <link>https://apami.ro/pages/info-publice/</link>
@@ -23,16 +36,6 @@
       
       <guid>https://apami.ro/pages/venituri-salariale/</guid>
       <description>&lt;h2 id=&#34;extras-din-legea-nr-1532017&#34;&gt;Extras din Legea nr. 153/2017&lt;/h2&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://apami.ro/pages/despre/</link>
-      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://apami.ro/pages/despre/</guid>
-      <description>Asociație neguvernamentală, independentă, parte a societății civile, fondată în 2006.
- Email: office@apami.ro Cheie publică OpenPGP: E2C628892D76C2542FA29D8BF92F344A00DA082B  </description>
     </item>
     
   </channel>
