@@ -5,11 +5,20 @@
     <link>https://apami.ro/categories/</link>
     <description>Recent content in Categories on APAMI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apami.ro/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apami.ro/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alternative</title>
+      <link>https://apami.ro/categories/alternative/</link>
+      <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apami.ro/categories/alternative/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Monitorizare</title>
       <link>https://apami.ro/categories/monitorizare/</link>
-      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://apami.ro/categories/monitorizare/</guid>
       <description></description>
