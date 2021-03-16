@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://apami.ro/categories/alternative/</loc>
-    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://apami.ro/</loc>
-    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apami.ro/tags/br%C4%83ila/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apami.ro/categories/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apami.ro/categories/monitorizare/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apami.ro/posts/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apami.ro/tags/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apami.ro/posts/transparen%C8%9Ba-veniturilor-salariale-br/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apami.ro/tags/transparen%C8%9B%C4%83/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apami.ro/categories/alternative/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apami.ro/posts/peti%C8%9Bii-i%C8%99j-2021/</loc>
@@ -23,19 +41,10 @@
     <loc>https://apami.ro/tags/ministerul-educa%C8%9Biei/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://apami.ro/categories/monitorizare/</loc>
-    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://apami.ro/tags/peti%C8%9Bii/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://apami.ro/posts/</loc>
-    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://apami.ro/tags/preuniversitar/</loc>
-    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://apami.ro/tags/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apami.ro/tags/aracip/</loc>
@@ -48,9 +57,6 @@
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apami.ro/posts/transparen%C8%9Ba-veniturilor-salariale-cnpee/</loc>
-    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://apami.ro/tags/transparen%C8%9B%C4%83/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apami.ro/tags/c%C4%83l%C4%83ra%C8%99i/</loc>
